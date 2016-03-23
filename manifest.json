@@ -1,0 +1,15 @@
+{
+    "name": "fontsize.liu-xiao-guo",
+    "description": "description of fontsize",
+    "architecture": "all",
+    "title": "fontsize",
+    "hooks": {
+        "fontsize": {
+            "apparmor": "fontsize.apparmor",
+            "desktop": "fontsize.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework": "ubuntu-sdk-15.04"
+}

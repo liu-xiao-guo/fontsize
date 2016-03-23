@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=fontsize
+Exec=qmlscene $@ Main.qml
+Icon=fontsize.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
